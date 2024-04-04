@@ -8,9 +8,13 @@ wk
 wk
 awuwuhbdwbshbadj
 nnknnk
+<<<<<<< HEAD
 jbgyuuy
 kh;ugyufyt
 jbvuly
 ijujkbm 
 lkpk,;
 lknlk
+=======
+jbgyuuy
+>>>>>>> 9bbeae7e1a9cef9412a3b19cbad88792e26f7e2e
